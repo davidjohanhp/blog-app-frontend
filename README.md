@@ -27,7 +27,7 @@ Follow these steps to set up the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blog-web-frontend.git
+git clone https://github.com/davidjohanhp/blog-app-frontend.git
 
 # Navigate to the project directory
 cd blog-web-frontend
